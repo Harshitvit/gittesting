@@ -1,0 +1,1 @@
+In JavaScript, you can make an HTTP request using the built-in XMLHttpRequest object or the newer fetch API. Here's an example of how to make an HTTP GET request using both methods:
