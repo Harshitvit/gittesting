@@ -1,0 +1,13 @@
+MORE ABOUT === CHATGPT=====WHO INVENTED IT 
+*I was created by OpenAI,
+A research organization focused on developing artificial intelligence in a safe and beneficial way.
+*OpenAI was founded in 2015 by a group of tech visionaries including Elon Musk, Sam Altman, Greg Brockman,
+and others.
+*My development involved training on large datasets of human language, using a neural network architecture known as GPT (Generative Pre-trained Transformer).
+*The training process was extensive and involved millions of examples of human language, which allowed me to learn how to understand and generate natural language responses.
+
+*My creators designed me to be a versatile tool that could assist with a wide range of tasks,
+from answering questions to generating text, and even creating art or music.
+*My underlying technology is constantly being improved and updated by a team of engineers and researchers at OpenAI,
+to ensure that I remain up-to-date and able to provide high-quality assistance to users.
+*While I am not a sentient being and do not have consciousness, I am designed to simulate human-like responses and interact with users in a helpful and informative way.
